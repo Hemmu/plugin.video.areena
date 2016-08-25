@@ -1,0 +1,228 @@
+# Kodi Media Center language file
+# Addon Name: Areena
+# Addon id: plugin.video.areena
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: Finnish (http://www.transifex.com/projects/p/xbmc-main/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "Settings"
+msgstr "Asetukset"
+
+msgctxt "#32002"
+msgid "Enable debug to kodi.log"
+msgstr "Kirjoita debug kodi.log -tiedostoon"
+
+msgctxt "#32003"
+msgid "Default language"
+msgstr "Kieli"
+
+msgctxt "#32004"
+msgid "Finnish"
+msgstr "Suomi"
+
+msgctxt "#32005"
+msgid "Swedish"
+msgstr "Ruotsi"
+
+msgctxt "#32006"
+msgid "English"
+msgstr "Englanti"
+
+msgctxt "#32007"
+msgid "Search"
+msgstr "Haku"
+
+msgctxt "#32008"
+msgid "Next page"
+msgstr "Seuraava sivu"
+
+msgctxt "#32009"
+msgid "New free search"
+msgstr "Uusi vapaa haku"
+
+msgctxt "#32010"
+msgid "Clear searches"
+msgstr "Tyhjennä haut"
+
+msgctxt "#32011"
+msgid "Sort type"
+msgstr "Lajittelutyyppi"
+
+msgctxt "#32012"
+msgid "Ascending"
+msgstr "Nouseva"
+
+msgctxt "#32013"
+msgid "Descending"
+msgstr "Laskeva"
+
+msgctxt "#32014"
+msgid "Default sort method"
+msgstr "Oletuslajittelumetodi"
+
+msgctxt "#32015"
+msgid "Most popular: 6h"
+msgstr "Suosituimmat: 6h"
+
+msgctxt "#32016"
+msgid "Most popular: 24h"
+msgstr "Suosituimmat: 24h"
+
+msgctxt "#32017"
+msgid "Most popular: week"
+msgstr "Suosituimmat: viikko"
+
+msgctxt "#32018"
+msgid "Most popular: month"
+msgstr "Suosituimmat: kuukausi"
+
+msgctxt "#32019"
+msgid "Time when viewing starts"
+msgstr "Julkaisun aloitusaika"
+
+msgctxt "#32020"
+msgid "Time when viewing ends"
+msgstr "Julkaisun lopetusaika"
+
+msgctxt "#32021"
+msgid "Time when updated"
+msgstr "Julkaisun päivitysaika"
+
+msgctxt "#32022"
+msgid "New series search"
+msgstr "Uusi sarjahaku"
+
+msgctxt "#32023"
+msgid "Free search: "
+msgstr "Vapaa haku: "
+
+msgctxt "#32024"
+msgid "Series search: "
+msgstr "Sarjahaku: "
+
+msgctxt "#32025"
+msgid "Favourites"
+msgstr "Suosikit"
+
+msgctxt "#32026"
+msgid "Add item to favourites"
+msgstr "Lisää ohjelma suosikkeihin"
+
+msgctxt "#32027"
+msgid "Add series to favourites"
+msgstr "Lisää sarja suosikkeihin"
+
+msgctxt "#32028"
+msgid "Remove from favourites"
+msgstr "Poista suosikeista
+
+msgctxt "#32029"
+msgid "Remove search item"
+msgstr "Poista haku"
+
+msgctxt "#32030"
+msgid "Are you in Finland?"
+msgstr "Oletko Suomessa?"
+
+msgctxt "#32031"
+msgid "TV programmes"
+msgstr "TV-ohjelmat"
+
+msgctxt "#32032"
+msgid "Radio programmes"
+msgstr "Radio-ohjelmat"
+
+msgctxt "#32033"
+msgid "Your app_id"
+msgstr "Sinun app_id"
+
+msgctxt "#32034"
+msgid "Your app_key"
+msgstr "Sinun app_key"
+
+msgctxt "#32035"
+msgid "Your secret key"
+msgstr "Sinun purkuavaimesi (secret_key)"
+
+msgctxt "#32036"
+msgid "API keys"
+msgstr "API-avaimet"
+
+msgctxt "#32037"
+msgid "Get API keys from https://tunnus.yle.fi/api-avaimet"
+msgstr "Hae API-avaimet osoitteesta https://tunnus.yle.fi/api-avaimet"
+
+msgctxt "#32038"
+msgid "Missing API keys. Register free at https://tunnus.yle.fi"
+msgstr "API tunnukset puuttuvat. Rekisteröidy ilmaiseksi osoitteessa https://tunnus.yle.fi"
+
+msgctxt "#32039"
+msgid "After registering click here to add the keys in the settings menu."
+msgstr "Rekisteröimisen jälkeen lisää avaimet painamalla tästä."
+
+msgctxt "#32040"
+msgid "Settings"
+msgstr "Asetukset"
+
+msgctxt "#32041"
+msgid "Show clips"
+msgstr "Näytä ohjelmapätkät"
+
+msgctxt "#32042"
+msgid "Show extra info about streams"
+msgstr "Näytä ohjelmien lisätiedot"
+
+msgctxt "#32043"
+msgid "Advanced"
+msgstr "Erikoisasetukset"
+
+msgctxt "#32044"
+msgid "Show (probably) unplayable items (name in red)"
+msgstr "Näytä videot joita ei (luultavasti) voi toistaa ([COLOR red]!!![/COLOR])"
+
+msgctxt "#32045"
+msgid "Maximum resolution"
+msgstr "Suurin sallittu resoluutio"
+
+msgctxt "#32046"
+msgid "Automatic"
+msgstr "Automaattinen"
+
+msgctxt "#32047"
+msgid "Audio only"
+msgstr "Vain ääni"
+
+msgctxt "#32048"
+msgid "SD-144"
+msgstr ""
+
+msgctxt "#32049"
+msgid "SD-270"
+msgstr ""
+
+msgctxt "#32050"
+msgid "SD-360"
+msgstr ""
+
+msgctxt "#32051"
+msgid "SD-480"
+msgstr ""
+
+msgctxt "#32052"
+msgid "HD-720"
+msgstr ""
+
+msgctxt "#32053"
+msgid "HD-1080"
+msgstr ""

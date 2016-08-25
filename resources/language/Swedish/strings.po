@@ -1,0 +1,228 @@
+# Kodi Media Center language file
+# Addon Name: Areena
+# Addon id: plugin.video.areena
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/xbmc-main/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "Settings"
+msgstr "Inställningar"
+
+msgctxt "#32002"
+msgid "Enable debug to kodi.log"
+msgstr "Skriv till kodi.log"
+
+msgctxt "#32003"
+msgid "Default language"
+msgstr "Språk"
+
+msgctxt "#32004"
+msgid "Finnish"
+msgstr "Finska"
+
+msgctxt "#32005"
+msgid "Swedish"
+msgstr "Svenska"
+
+msgctxt "#32006"
+msgid "English"
+msgstr "Engelska"
+
+msgctxt "#32007"
+msgid "Search"
+msgstr "Sök"
+
+msgctxt "#32008"
+msgid "Next page"
+msgstr "Nästa sidan"
+
+msgctxt "#32009"
+msgid "New free search"
+msgstr "Ny fri sök"
+
+msgctxt "#32010"
+msgid "Clear searches"
+msgstr "Klara sökande"
+
+msgctxt "#32011"
+msgid "Sort type"
+msgstr "Sorteringssätt "
+
+msgctxt "#32012"
+msgid "Ascending"
+msgstr "Uppgående"
+
+msgctxt "#32013"
+msgid "Descending"
+msgstr "Nergående"
+
+msgctxt "#32014"
+msgid "Default sort method"
+msgstr "Standardsorteringssätt"
+
+msgctxt "#32015"
+msgid "Most popular: 6h"
+msgstr "Mest populär: 6h"
+
+msgctxt "#32016"
+msgid "Most popular: 24h"
+msgstr "Mest populär: 24h"
+
+msgctxt "#32017"
+msgid "Most popular: week"
+msgstr "Mest populär: veckan"
+
+msgctxt "#32018"
+msgid "Most popular: month"
+msgstr "Mest populär: månaden"
+
+msgctxt "#32019"
+msgid "Time when viewing starts"
+msgstr "När programmet tillgänglig"
+
+msgctxt "#32020"
+msgid "Time when viewing ends"
+msgstr "När programmet lämnas"
+
+msgctxt "#32021"
+msgid "Time when updated"
+msgstr "När programmet uppdaterad"
+
+msgctxt "#32022"
+msgid "New series search"
+msgstr "Ny serie sök"
+
+msgctxt "#32023"
+msgid "Free search: "
+msgstr "Fri sök: "
+
+msgctxt "#32024"
+msgid "Series search: "
+msgstr "Serie sök: "
+
+msgctxt "#32025"
+msgid "Favourites"
+msgstr "Favoriterna"
+
+msgctxt "#32026"
+msgid "Add item to favourites"
+msgstr "Tillsätta till favoriterna"
+
+msgctxt "#32027"
+msgid "Add series to favourites"
+msgstr "Tillsätta serie till favoriterna"
+
+msgctxt "#32028"
+msgid "Remove from favourites"
+msgstr "Ta bort från favoriterna"
+
+msgctxt "#32029"
+msgid "Remove search item"
+msgstr "Ta bort sök"
+
+msgctxt "#32030"
+msgid "Are you in Finland?"
+msgstr "Är du inom Finland?"
+
+msgctxt "#32031"
+msgid "TV programmes"
+msgstr "TV program"
+
+msgctxt "#32032"
+msgid "Radio programmes"
+msgstr "Radio program"
+
+msgctxt "#32033"
+msgid "Your app_id"
+msgstr "Ditt app_id"
+
+msgctxt "#32034"
+msgid "Your app_key"
+msgstr "Ditt app_key"
+
+msgctxt "#32035"
+msgid "Your secret key"
+msgstr "Ditt secret_key"
+
+msgctxt "#32036"
+msgid "API keys"
+msgstr "API nycklar"
+
+msgctxt "#32037"
+msgid "Get API keys from https://tunnus.yle.fi/api-avaimet"
+msgstr "Ge ditt API nycklar från https://tunnus.yle.fi/api-avaimet"
+
+msgctxt "#32038"
+msgid "Missing API keys. Register free at https://tunnus.yle.fi"
+msgstr "Saknas API-nyckel. Registrera gratis på https://tunnus.yle.fi"
+
+msgctxt "#32039"
+msgid "After registering click here to add the keys in the settings menu."
+msgstr "Efter du har registrerad klicka här för att tillsätta nycklar."
+
+msgctxt "#32040"
+msgid "Settings"
+msgstr "Inställningar"
+
+msgctxt "#32041"
+msgid "Show clips"
+msgstr "Visa clips"
+
+msgctxt "#32042"
+msgid "Show extra info about streams"
+msgstr "Visa extra program information"
+
+msgctxt "#32043"
+msgid "Advanced"
+msgstr "Avancerad"
+
+msgctxt "#32044"
+msgid "Show (probably) unplayable items ([COLOR red]!!![/COLOR])"
+msgstr "Visa ospelbar program ([COLOR red]!!![/COLOR])"
+
+msgctxt "#32045"
+msgid "Maximum resolution"
+msgstr "Maximum resolution"
+
+msgctxt "#32046"
+msgid "Automatic"
+msgstr "Automatisk"
+
+msgctxt "#32047"
+msgid "Audio only"
+msgstr "Ljud bara"
+
+msgctxt "#32048"
+msgid "SD-144"
+msgstr ""
+
+msgctxt "#32049"
+msgid "SD-270"
+msgstr ""
+
+msgctxt "#32050"
+msgid "SD-360"
+msgstr ""
+
+msgctxt "#32051"
+msgid "SD-480"
+msgstr ""
+
+msgctxt "#32052"
+msgid "HD-720"
+msgstr ""
+
+msgctxt "#32053"
+msgid "HD-1080"
+msgstr ""
